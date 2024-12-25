@@ -2,7 +2,7 @@ class Store {
 
   ArrayList<Movies> movies; // we have set the fields private, so that nobody can not access the objects field directly.
 
-  // constructor with no parameters, here constructor is being used 
+  // constructor with no parameters, here constructor is being used.
 
   public Store() {
     movies = new ArrayList<>(); // shows the new refernce to the object.
